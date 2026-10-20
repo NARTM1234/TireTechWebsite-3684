@@ -1,0 +1,273 @@
+{
+  "brands": [
+    {
+      "id": "gee-stone",
+      "name": "Gee Stone",
+      "nameAr": "جي ستون",
+      "description": "Explore Gee Stone product enquiries with TireTech. Contact our team to confirm the current range and availability.",
+      "descriptionAr": "استكشف منتجات جي ستون مع تايرتك. تواصل معنا لتأكيد المجموعة الحالية والتوفر.",
+      "image": "/api/media/media/7c2da4b4-d18b-469a-87b9-32eed6f4bb1b.png"
+    },
+    {
+      "id": "braza",
+      "name": "Braza",
+      "nameAr": "برازا",
+      "description": "Tyre and tube repair patches, including nylon-ply, radial and OTR patch families.",
+      "descriptionAr": "رقع إصلاح الإطارات والأنابيب، بما فيها مجموعات النايلون والشعاعية وإطارات الطرق الوعرة.",
+      "image": "/images/brands/braza.webp"
+    },
+    {
+      "id": "elgi",
+      "name": "ELGI Rubber",
+      "nameAr": "إلجي رابر",
+      "description": "Repair units, vulcanizing cements and tyre-service liquids from ELGI Rubber’s repair systems range.",
+      "descriptionAr": "وحدات إصلاح وأسمنت فلكنة وسوائل خدمة الإطارات من مجموعة أنظمة الإصلاح لدى إلجي رابر.",
+      "image": "/images/brands/elgi.webp"
+    },
+    {
+      "id": "tip-top",
+      "name": "REMA TIP TOP",
+      "nameAr": "ريما تيب توب",
+      "description": "Tyre and tube repair materials, bonding cements and professional repair systems.",
+      "descriptionAr": "مواد إصلاح الإطارات والأنابيب وأسمنت الربط وأنظمة الإصلاح الاحترافية.",
+      "image": "/images/brands/tip-top.webp"
+    }
+  ],
+  "categories": [
+    {
+      "id": "repair-materials",
+      "name": "Tyre Repair Materials",
+      "nameAr": "مواد إصلاح الإطارات"
+    },
+    {
+      "id": "patches",
+      "name": "Patches & Repair Units",
+      "nameAr": "رقع ووحدات الإصلاح"
+    },
+    {
+      "id": "vulcanizing",
+      "name": "Vulcanizing Materials",
+      "nameAr": "مواد الفلكنة"
+    },
+    {
+      "id": "consumables",
+      "name": "Service Consumables",
+      "nameAr": "مستهلكات خدمة الإطارات"
+    },
+    {
+      "id": "accessories",
+      "name": "Workshop Accessories",
+      "nameAr": "ملحقات الورش"
+    }
+  ],
+  "products": [
+    {
+      "id": "radial-repair-units",
+      "name": "Radial tyre repair units",
+      "nameAr": "وحدات إصلاح الإطارات الشعاعية",
+      "brandId": "elgi",
+      "categoryId": "patches",
+      "description": "Repair units from ELGI Rubber’s radial tyre repair range.",
+      "descriptionAr": "وحدات من مجموعة إلجي رابر لإصلاح الإطارات الشعاعية.",
+      "details": "Product family: Radial tyre repair units. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://www.elgirubber.com/repair-system/",
+      "detailsAr": "مجموعة المنتج: وحدات إصلاح الإطارات الشعاعية. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://www.elgirubber.com/repair-system/",
+      "image": "/images/products/elgi-radial.webp",
+      "illustrative": false
+    },
+    {
+      "id": "tube-repair-patches",
+      "name": "Tube repair units — round & oval",
+      "nameAr": "وحدات إصلاح الأنابيب الدائرية والبيضاوية",
+      "brandId": "elgi",
+      "categoryId": "patches",
+      "description": "Round and oval repair units for inner-tube repairs.",
+      "descriptionAr": "وحدات دائرية وبيضاوية لإصلاح الأنابيب الداخلية.",
+      "details": "Product family: Tube repair units — round & oval. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://www.elgirubber.com/repair-system/tube-repair-units/",
+      "detailsAr": "مجموعة المنتج: وحدات إصلاح الأنابيب الدائرية والبيضاوية. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://www.elgirubber.com/repair-system/tube-repair-units/",
+      "image": "/images/products/elgi-tube.webp",
+      "illustrative": false
+    },
+    {
+      "id": "vulcanizing-materials",
+      "name": "Chemical vulcanizing cement",
+      "nameAr": "أسمنت الفلكنة الكيميائية",
+      "brandId": "elgi",
+      "categoryId": "vulcanizing",
+      "description": "Fast-drying chemical vulcanizing cement that cures with or without heat.",
+      "descriptionAr": "أسمنت فلكنة كيميائي سريع الجفاف يتصلب مع الحرارة أو بدونها.",
+      "details": "Product family: Chemical vulcanizing cement. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://www.elgirubber.com/repair-system/tyre-repair-liquid/",
+      "detailsAr": "مجموعة المنتج: أسمنت الفلكنة الكيميائية. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://www.elgirubber.com/repair-system/tyre-repair-liquid/",
+      "image": "/images/products/elgi-cement.webp",
+      "illustrative": false
+    },
+    {
+      "id": "service-consumables",
+      "name": "Rubber buffer",
+      "nameAr": "منظف بطانة الإطار",
+      "brandId": "elgi",
+      "categoryId": "consumables",
+      "description": "Preparation liquid for cleaning the inner liner before rasping and inner tubes before puncture repair.",
+      "descriptionAr": "سائل تحضير لتنظيف البطانة قبل الكشط والأنابيب الداخلية قبل إصلاح الثقوب.",
+      "details": "Product family: Rubber buffer. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://www.elgirubber.com/repair-system/tyre-repair-liquid/",
+      "detailsAr": "مجموعة المنتج: منظف بطانة الإطار. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://www.elgirubber.com/repair-system/tyre-repair-liquid/",
+      "image": "/images/products/elgi-buffer.webp",
+      "illustrative": false
+    },
+    {
+      "id": "repair-materials",
+      "name": "Universal tyre repair units",
+      "nameAr": "وحدات إصلاح الإطارات متعددة الاستخدام",
+      "brandId": "elgi",
+      "categoryId": "patches",
+      "description": "Round and square units for bias or radial tyres, used with a stem insert as a two-piece repair.",
+      "descriptionAr": "وحدات دائرية ومربعة للإطارات القطرية أو الشعاعية تستخدم مع ساق إصلاح ضمن نظام من جزأين.",
+      "details": "Product family: Universal tyre repair units. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://www.elgirubber.com/repair-system/universal-tyre-repair-units/",
+      "detailsAr": "مجموعة المنتج: وحدات إصلاح الإطارات متعددة الاستخدام. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://www.elgirubber.com/repair-system/universal-tyre-repair-units/",
+      "image": "/images/products/elgi-universal.webp",
+      "illustrative": false
+    },
+    {
+      "id": "workshop-accessories",
+      "name": "Identification units",
+      "nameAr": "وحدات تعريف الإصلاح",
+      "brandId": "elgi",
+      "categoryId": "accessories",
+      "description": "Identification units from ELGI Rubber’s tyre repair systems catalogue.",
+      "descriptionAr": "وحدات تعريف من كتالوج أنظمة إصلاح الإطارات لدى إلجي رابر.",
+      "details": "Product family: Identification units. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://www.elgirubber.com/repair-system/identification-units/",
+      "detailsAr": "مجموعة المنتج: وحدات تعريف الإصلاح. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://www.elgirubber.com/repair-system/identification-units/",
+      "image": "/images/products/elgi-identification.webp",
+      "illustrative": false
+    },
+    {
+      "id": "elgi-bias-repair-units",
+      "name": "Bias tyre repair units",
+      "nameAr": "وحدات إصلاح الإطارات القطرية",
+      "brandId": "elgi",
+      "categoryId": "patches",
+      "description": "Repair units designed for bias tyre repair applications.",
+      "descriptionAr": "وحدات مصممة لتطبيقات إصلاح الإطارات القطرية.",
+      "details": "Product family: Bias tyre repair units. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://www.elgirubber.com/repair-system/bias-tyre-repair-units/",
+      "detailsAr": "مجموعة المنتج: وحدات إصلاح الإطارات القطرية. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://www.elgirubber.com/repair-system/bias-tyre-repair-units/",
+      "image": "/images/products/elgi-bias.webp",
+      "illustrative": false
+    },
+    {
+      "id": "elgi-stem-repair-units",
+      "name": "Stem tyre repair units",
+      "nameAr": "وحدات إصلاح ساقية للإطارات",
+      "brandId": "elgi",
+      "categoryId": "repair-materials",
+      "description": "Stem repair units for use within compatible tyre repair systems.",
+      "descriptionAr": "وحدات إصلاح ساقية للاستخدام ضمن أنظمة إصلاح الإطارات المتوافقة.",
+      "details": "Product family: Stem tyre repair units. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://www.elgirubber.com/repair-system/stem-tyre-repair-units/",
+      "detailsAr": "مجموعة المنتج: وحدات إصلاح ساقية للإطارات. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://www.elgirubber.com/repair-system/stem-tyre-repair-units/",
+      "image": "/images/products/elgi-stem.webp",
+      "illustrative": false
+    },
+    {
+      "id": "elgi-combination-repair-units",
+      "name": "Universal combination repair units",
+      "nameAr": "وحدات إصلاح مركبة متعددة الاستخدام",
+      "brandId": "elgi",
+      "categoryId": "patches",
+      "description": "Combination tyre repairs made from specially formulated rubber compounds.",
+      "descriptionAr": "وحدات إصلاح مركبة من مركبات مطاطية مصممة خصيصًا.",
+      "details": "Product family: Universal combination repair units. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://www.elgirubber.com/repair-system/",
+      "detailsAr": "مجموعة المنتج: وحدات إصلاح مركبة متعددة الاستخدام. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://www.elgirubber.com/repair-system/",
+      "image": "/images/products/elgi-combination.webp",
+      "illustrative": false
+    },
+    {
+      "id": "elgi-black-vulcanizing-cement",
+      "name": "Black vulcanizing cement",
+      "nameAr": "أسمنت الفلكنة الأسود",
+      "brandId": "elgi",
+      "categoryId": "vulcanizing",
+      "description": "Heat-activated cement for bonding a repair unit to the tyre casing.",
+      "descriptionAr": "أسمنت يعمل بالحرارة لربط وحدة الإصلاح بهيكل الإطار.",
+      "details": "Product family: Black vulcanizing cement. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://www.elgirubber.com/repair-system/tyre-repair-liquid/",
+      "detailsAr": "مجموعة المنتج: أسمنت الفلكنة الأسود. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://www.elgirubber.com/repair-system/tyre-repair-liquid/",
+      "image": "/images/products/elgi-black-cement.webp",
+      "illustrative": false
+    },
+    {
+      "id": "elgi-rim-sealant",
+      "name": "Rim sealant",
+      "nameAr": "مانع تسرب الجنط",
+      "brandId": "elgi",
+      "categoryId": "consumables",
+      "description": "Natural-rubber solution for sealing leaks between the tyre bead and rim.",
+      "descriptionAr": "محلول مطاط طبيعي لإغلاق التسربات بين حافة الإطار والجنط.",
+      "details": "Product family: Rim sealant. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://www.elgirubber.com/repair-system/tyre-repair-liquid/",
+      "detailsAr": "مجموعة المنتج: مانع تسرب الجنط. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://www.elgirubber.com/repair-system/tyre-repair-liquid/",
+      "image": "/images/products/elgi-rim.webp",
+      "illustrative": false
+    },
+    {
+      "id": "rema-special-blue-cement",
+      "name": "Special Blue Cement BL-5F",
+      "nameAr": "أسمنت بلو الخاص BL-5F",
+      "brandId": "tip-top",
+      "categoryId": "vulcanizing",
+      "description": "Bonding cement for compatible REMA TIP TOP radial, bias-ply, universal, MINICOMBI and REMASTEM repair units.",
+      "descriptionAr": "أسمنت ربط لوحدات إصلاح ريما تيب توب المتوافقة، الشعاعية والقطرية ومتعددة الاستخدام وMINICOMBI وREMASTEM.",
+      "details": "Product family: Special Blue Cement BL-5F. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://shop.rematiptop.com/bl-5f-special-blue-cement/",
+      "detailsAr": "مجموعة المنتج: أسمنت بلو الخاص BL-5F. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://shop.rematiptop.com/bl-5f-special-blue-cement/",
+      "image": "/images/products/rema-blue-cement.webp",
+      "illustrative": false
+    },
+    {
+      "id": "braza-radial-patches",
+      "name": "Radial repair patches",
+      "nameAr": "رقع إصلاح شعاعية",
+      "brandId": "braza",
+      "categoryId": "patches",
+      "description": "Radial patches from Braza’s tyre repair patch family.",
+      "descriptionAr": "رقع شعاعية من مجموعة برازا لإصلاح الإطارات.",
+      "details": "Product family: Radial repair patches. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://brazatyres.com/product/patches/",
+      "detailsAr": "مجموعة المنتج: رقع إصلاح شعاعية. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://brazatyres.com/product/patches/",
+      "image": "",
+      "illustrative": false
+    },
+    {
+      "id": "braza-nylon-ply-patches",
+      "name": "Nylon-ply repair patches",
+      "nameAr": "رقع إصلاح بطبقات النايلون",
+      "brandId": "braza",
+      "categoryId": "patches",
+      "description": "Nylon-ply patches from Braza’s repair materials range.",
+      "descriptionAr": "رقع بطبقات نايلون من مجموعة مواد الإصلاح لدى برازا.",
+      "details": "Product family: Nylon-ply repair patches. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://brazatyres.com/product/patches/",
+      "detailsAr": "مجموعة المنتج: رقع إصلاح بطبقات النايلون. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://brazatyres.com/product/patches/",
+      "image": "",
+      "illustrative": false
+    },
+    {
+      "id": "braza-otr-patches",
+      "name": "OTR repair patches",
+      "nameAr": "رقع إصلاح إطارات الطرق الوعرة",
+      "brandId": "braza",
+      "categoryId": "patches",
+      "description": "OTR repair patches offered in Braza’s patch range.",
+      "descriptionAr": "رقع لإصلاح إطارات الطرق الوعرة من مجموعة برازا.",
+      "details": "Product family: OTR repair patches. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://brazatyres.com/product/patches/",
+      "detailsAr": "مجموعة المنتج: رقع إصلاح إطارات الطرق الوعرة. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://brazatyres.com/product/patches/",
+      "image": "",
+      "illustrative": false
+    },
+    {
+      "id": "braza-tube-patches",
+      "name": "Tube repair patches",
+      "nameAr": "رقع إصلاح الأنابيب الداخلية",
+      "brandId": "braza",
+      "categoryId": "patches",
+      "description": "Inner-tube repair patches manufactured in different sizes and shapes.",
+      "descriptionAr": "رقع إصلاح للأنابيب الداخلية تُصنّع بمقاسات وأشكال متعددة.",
+      "details": "Product family: Tube repair patches. Select the size and repair system for your application in accordance with the manufacturer’s instructions. Manufacturer reference: https://brazatyres.com/product/patches/",
+      "detailsAr": "مجموعة المنتج: رقع إصلاح الأنابيب الداخلية. اختر المقاس ونظام الإصلاح المناسبين لاستخدامك وفق تعليمات الشركة المصنعة. مرجع الشركة المصنعة: https://brazatyres.com/product/patches/",
+      "image": "",
+      "illustrative": false
+    }
+  ]
+}

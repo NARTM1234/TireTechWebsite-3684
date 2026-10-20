@@ -1,0 +1,80 @@
+[
+  {
+    "id": "radial-repair-units",
+    "name": "Radial repair units",
+    "name_ar": "وحدات إصلاح الإطارات الشعاعية",
+    "brand_id": "tip-top",
+    "category_id": "patches",
+    "description": "An illustrative catalogue entry for professional tyre-service product enquiries.",
+    "description_ar": "عنصر توضيحي في الكتالوج للاستفسار عن منتجات خدمة الإطارات الاحترافية.",
+    "details": "Sample entry—not a confirmed SKU or brand assignment. Product images are illustrative. Contact TireTech to confirm product selection, application, packaging and availability. No technical specifications have been supplied.",
+    "details_ar": "عنصر نموذجي، وليس منتجاً أو ارتباطاً بعلامة تجارية مؤكداً. الصور توضيحية. تواصل مع تايرتك لتأكيد اختيار المنتج واستخدامه وتعبئته وتوفره. لم يتم تقديم مواصفات فنية.",
+    "image": "/images/patch.webp",
+    "illustrative": 1
+  },
+  {
+    "id": "tube-repair-patches",
+    "name": "Tube repair patches",
+    "name_ar": "رقع إصلاح الأنابيب",
+    "brand_id": "gee-stone",
+    "category_id": "patches",
+    "description": "An illustrative catalogue entry for professional tyre-service product enquiries.",
+    "description_ar": "عنصر توضيحي في الكتالوج للاستفسار عن منتجات خدمة الإطارات الاحترافية.",
+    "details": "Sample entry—not a confirmed SKU or brand assignment. Product images are illustrative. Contact TireTech to confirm product selection, application, packaging and availability. No technical specifications have been supplied.",
+    "details_ar": "عنصر نموذجي، وليس منتجاً أو ارتباطاً بعلامة تجارية مؤكداً. الصور توضيحية. تواصل مع تايرتك لتأكيد اختيار المنتج واستخدامه وتعبئته وتوفره. لم يتم تقديم مواصفات فنية.",
+    "image": "/images/hero.webp",
+    "illustrative": 1
+  },
+  {
+    "id": "vulcanizing-materials",
+    "name": "Vulcanizing materials",
+    "name_ar": "مواد الفلكنة",
+    "brand_id": "braza",
+    "category_id": "vulcanizing",
+    "description": "An illustrative catalogue entry for professional tyre-service product enquiries.",
+    "description_ar": "عنصر توضيحي في الكتالوج للاستفسار عن منتجات خدمة الإطارات الاحترافية.",
+    "details": "Sample entry—not a confirmed SKU or brand assignment. Product images are illustrative. Contact TireTech to confirm product selection, application, packaging and availability. No technical specifications have been supplied.",
+    "details_ar": "عنصر نموذجي، وليس منتجاً أو ارتباطاً بعلامة تجارية مؤكداً. الصور توضيحية. تواصل مع تايرتك لتأكيد اختيار المنتج واستخدامه وتعبئته وتوفره. لم يتم تقديم مواصفات فنية.",
+    "image": "/images/workshop.webp",
+    "illustrative": 1
+  },
+  {
+    "id": "service-consumables",
+    "name": "Tyre service consumables",
+    "name_ar": "مستهلكات خدمة الإطارات",
+    "brand_id": "elgi",
+    "category_id": "consumables",
+    "description": "An illustrative catalogue entry for professional tyre-service product enquiries.",
+    "description_ar": "عنصر توضيحي في الكتالوج للاستفسار عن منتجات خدمة الإطارات الاحترافية.",
+    "details": "Sample entry—not a confirmed SKU or brand assignment. Product images are illustrative. Contact TireTech to confirm product selection, application, packaging and availability. No technical specifications have been supplied.",
+    "details_ar": "عنصر نموذجي، وليس منتجاً أو ارتباطاً بعلامة تجارية مؤكداً. الصور توضيحية. تواصل مع تايرتك لتأكيد اختيار المنتج واستخدامه وتعبئته وتوفره. لم يتم تقديم مواصفات فنية.",
+    "image": "/images/hero.webp",
+    "illustrative": 1
+  },
+  {
+    "id": "repair-materials",
+    "name": "Professional repair materials",
+    "name_ar": "مواد الإصلاح الاحترافية",
+    "brand_id": "tip-top",
+    "category_id": "repair-materials",
+    "description": "An illustrative catalogue entry for professional tyre-service product enquiries.",
+    "description_ar": "عنصر توضيحي في الكتالوج للاستفسار عن منتجات خدمة الإطارات الاحترافية.",
+    "details": "Sample entry—not a confirmed SKU or brand assignment. Product images are illustrative. Contact TireTech to confirm product selection, application, packaging and availability. No technical specifications have been supplied.",
+    "details_ar": "عنصر نموذجي، وليس منتجاً أو ارتباطاً بعلامة تجارية مؤكداً. الصور توضيحية. تواصل مع تايرتك لتأكيد اختيار المنتج واستخدامه وتعبئته وتوفره. لم يتم تقديم مواصفات فنية.",
+    "image": "/images/patch.webp",
+    "illustrative": 1
+  },
+  {
+    "id": "workshop-accessories",
+    "name": "Workshop accessories",
+    "name_ar": "ملحقات الورش",
+    "brand_id": "elgi",
+    "category_id": "accessories",
+    "description": "An illustrative catalogue entry for professional tyre-service product enquiries.",
+    "description_ar": "عنصر توضيحي في الكتالوج للاستفسار عن منتجات خدمة الإطارات الاحترافية.",
+    "details": "Sample entry—not a confirmed SKU or brand assignment. Product images are illustrative. Contact TireTech to confirm product selection, application, packaging and availability. No technical specifications have been supplied.",
+    "details_ar": "عنصر نموذجي، وليس منتجاً أو ارتباطاً بعلامة تجارية مؤكداً. الصور توضيحية. تواصل مع تايرتك لتأكيد اختيار المنتج واستخدامه وتعبئته وتوفره. لم يتم تقديم مواصفات فنية.",
+    "image": "/images/workshop.webp",
+    "illustrative": 1
+  }
+]

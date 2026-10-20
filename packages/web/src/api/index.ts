@@ -1,0 +1,17 @@
+import type { RouterClient } from "@orpc/server";
+import { createApp } from "./__core/app";
+import { controls } from "./routes/controls";
+import { reviewSubmissions } from "./routes/review-submissions";
+import { ping } from "./routes/ping";
+import { catalogue } from "./routes/catalogue";
+import { cms } from "./routes/cms";
+import { auth } from "./auth";
+import { upload } from "./routes/upload";
+import { mediaHandler } from "./media-handler";
+export const router = { ping, catalogue, cms, upload, controls, reviewSubmissions };
+export type AppRouter = typeof router;
+export type AppRouterClient = RouterClient<AppRouter>;
+const app = createApp(router);
+app.on(["GET", "POST"], "/api/auth/*", (c) => auth.handler(c.req.raw));
+app.get("/api/media/media/:key", mediaHandler);
+export default app;
